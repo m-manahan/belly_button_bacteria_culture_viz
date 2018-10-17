@@ -140,7 +140,7 @@ for (var k = 0; k < list.length; k++) {
 
     
     var layout = {
-      title: "'Bar' Chart",
+      title: "Belly Button Pie Chart",
       showlegend: true,
   legend: {
     x: 1,
